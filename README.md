@@ -59,7 +59,7 @@ Example structure:
 data/
   └── Amazon_clothing/
       ├── scene_description.txt
-      └── Clothing_Shoes_and_Jewelry_2000.csv
+      └── Clothing_Shoes_and_Jewelry.csv
 ```
 
 **CSV Format**:
@@ -300,3 +300,4 @@ If you find this work helpful, please cite our paper:
 If you have any questions or want to use the code, feel free to contact:
 
 **Xiaochong Lan** (lanxc22@mails.tsinghua.edu.cn)
+
